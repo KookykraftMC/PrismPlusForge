@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="ForgeBase" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.yourname.modid" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="PrismPlusForge" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.yourname.modid" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/build/classes/main" />
     <output-test url="file://$MODULE_DIR$/build/classes/test" />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="" scope="RUNTIME">
       <library name="Gradle: C__Users_TimeTheCat_IdeaProjects_ThermosEx2_Thermos__gradle_caches_minecraft_net_minecraftforge_forge_1_7_10_10_13_4_1614_1_7_10_start:10\start">
         <CLASSES>
-          <root url="file://$USER_HOME$/IdeaProjects/ThermosEx2/Thermos/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/start" />
+          <root url="file://$MODULE_DIR$/../ThermosEx2/Thermos/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/start" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -83,5 +83,23 @@
     <orderEntry type="library" exported="" name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.1:natives-windows" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.1:natives-linux" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.1:natives-osx" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="Gradle: bukkit-1.7.10-R0.1-20140808.005150-4">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/bukkit-1.7.10-R0.1-20140808.005150-4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="Gradle: PrismPlus-Dev">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/PrismPlus-Dev.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
